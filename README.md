@@ -74,8 +74,8 @@
 
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 <p align="center">
-<a href="https://www.linkedin.com/in/thamindu-weerasinghe-6b2aa3342/" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="kaveendinethma" height="50" width="50" /></a>
-<a href="https://www.facebook.com/share/15k1tprDQS/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kaveen dinethma" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/thamindu-weerasinghe-6b2aa3342/" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="Tnadeeja" height="50" width="50" /></a>
+<a href="https://www.facebook.com/share/15k1tprDQS/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Tnadeeja" height="50" width="50" /></a>
 <a href="https://www.instagram.com/nadeejatw/profilecard/?igsh=d3Z3eG1rdG1oMzFn" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" alt="kavee_dineth" height="50" width="50" /></a>
 </p>
 
