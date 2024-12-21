@@ -3,7 +3,7 @@
 
 <!--Header Name-->
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ ᴛʜᴀᴍɪɴᴅᴜ ɴᴀᴅᴇᴇᴊᴀ!
-*Pᴀssɪᴏɴᴀᴛᴇ ɪᴛ Sᴛᴜᴅᴇɴᴛ | Dɪsᴄᴏᴠᴇʀɪɴɢ ᴛʜᴇ ʙᴏᴜɴᴅʟᴇꜱs Wᴏʀʟᴅ ᴏꜰ Tᴇᴄʜɴᴏʟᴏɢʏ*
+*Pᴀssɪᴏɴᴀᴛᴇ ɪᴛ Sᴛᴜᴅᴇɴᴛ | Tʀᴀᴠᴇʟɪɴɢ ᴛʜʀᴏᴜɢʜ ᴛʜᴇ Iɴfɪɴɪᴛᴇ Wᴏʀʟᴅ ᴏꜰ Tᴇᴄʜ*
 <br /> 
 
 <!--Start Intro-->               
