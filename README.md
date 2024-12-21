@@ -2,8 +2,8 @@
  [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 
 <!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ ɴᴀᴅᴇᴇᴊᴀ! 
-*ᴘᴀꜱꜱɪᴏɴᴀᴛᴇ ɪᴛ ꜱᴛᴜᴅᴇɴᴛ | ᴇxᴘʟᴏʀɪɴɢ ᴛʜᴇ ʙᴏᴜɴᴅʟᴇꜱꜱ ᴡᴏʀʟᴅ ᴏꜰ ᴛᴇᴄʜɴᴏʟᴏɢʏ*
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ ᴛʜᴀᴍɪɴᴅᴜ ɴᴀᴅᴇᴇᴊᴀ!
+*Pᴀssɪᴏɴᴀᴛᴇ ɪᴛ Sᴛᴜᴅᴇɴᴛ | Dɪsᴄᴏᴠᴇʀɪɴɢ ᴛʜᴇ ʙᴏᴜɴᴅʟᴇꜱs Wᴏʀʟᴅ ᴏꜰ Tᴇᴄʜɴᴏʟᴏɢʏ*
 <br /> 
 
 <!--Start Intro-->               
