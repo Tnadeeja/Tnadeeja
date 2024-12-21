@@ -64,9 +64,7 @@
 <!--Contribution Graph-->
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=Tnadeeja&theme=react-dark&hide_border=true&area=true)
 
-<!--<p align="center">
-  <img src="https://github.com/Tnadeeja/Tnadeeja/blob/main/github-user-contribution.svg" alt="snake">
-</p>-->
+![snake gif](https://github.com/Tnadeeja/Tnadeeja/blob/output/github-snake-dark.svg)
 
 ---
 
