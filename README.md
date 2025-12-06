@@ -1,103 +1,155 @@
-<!-- Banner -->
-<p align="center">
+<div align="center">
+  
+  <!-- Banner with Matrix SVG -->
   <a href="https://www.youtube.com/watch?v=SDkAGkd4NLc" target="_blank">
-    <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" alt="Matrix Banner"/>
+    <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" alt="Matrix Banner" width="100%"/>
   </a>
-</p>
 
-<!-- Header Name -->
-<h1 align="center">
-  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
-  ɪ'ᴍ ᴛʜᴀᴍɪɴᴅᴜ ɴᴀᴅᴇᴇᴊᴀ
-</h1>
+  <!-- Header -->
+  <h1 align="center">
+    <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
+    Thamindu Nadeeja
+  </h1>
+  
+  <h3 align="center">
+    IT Undergraduate • Data Science • Mobile & Web Developer
+  </h3>
 
-<p align="center">
-  ɪᴛ Uɴᴅᴇʀɢʀᴀᴅᴜᴀᴛᴇ • Dᴀᴛᴀ Sᴄɪᴇɴᴄᴇ Sᴘᴇᴄɪᴀʟɪᴢᴀᴛɪᴏɴ • Mᴏʙɪʟᴇ & Wᴇʙ Dᴇᴠᴇʟᴏᴘᴇʀ
-</p>
+  <!-- Social Badges -->
+  <p align="center">
+    <a href="https://www.linkedin.com/in/thamindu-weerasinghe-6b2aa3342/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="mailto:nadeejatw@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+    <a href="https://github.com/Tnadeeja" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    </a>
+    <img src="https://komarev.com/ghpvc/?username=Tnadeeja&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
+  </p>
 
-<p align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Q4eGJ1M2UwOGNoOXpoMzQwdGR2aWM3Z3ZoejliczQyNGp4azV2aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BUbMgQBShZOcMPohgn/giphy-downsized-large.gif"
+     alt="Coding"
+     height="200"
+     style="border-radius: 10px; margin: 1rem 0;" />
+</div>
+
+---
+
+## 👋 About Me
+
+I'm a passionate 3rd-year IT undergraduate from Sri Lanka, specializing in Data Science with hands-on experience in web and mobile development. I love transforming complex problems into elegant solutions through code and data.
+
+- 🎓 Pursuing a degree in Information Technology with a focus on Data Science
+- 💻 Full-stack developer with experience in web and mobile applications
+- 📊 Passionate about data analysis, visualization, and machine learning
+- 🚀 Always learning and exploring new technologies
+- ⚡ Fun fact: You can call me Thamiya 😄
+
+---
+
+## 🔭 Current Focus
+
+I'm currently diving deep into:
+- Python for Data Science and Machine Learning
+- Advanced SQL and database design
+- Statistical analysis and data visualization
+- Building end-to-end data pipelines
+- Mobile app development with Kotlin
+
+---
+
+## 🛠️ Tech Stack
+
+### Core Languages
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R"></code>
+
+### Web & UI
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap"></code>
+
+### Databases & Data
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter"></code>
+
+### Tools & Platforms
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code"></code>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tnadeeja&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Tnadeeja&theme=radical" alt="GitHub Streak" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tnadeeja&layout=compact&theme=radical" alt="Top Languages" />
+</div>
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
   <a href="https://www.linkedin.com/in/thamindu-weerasinghe-6b2aa3342/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:nadeejatw@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://github.com/Tnadeeja" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-</p>
+</div>
 
 ---
 
-<!-- Intro Section -->
-<table align="center">
-<tr border="none">
-<td width="55%" align="left">
+## 🌱 Learning Roadmap
 
-- 🧑‍🎓 I’m a **3rd-year IT undergraduate** specializing in **Data Science**
-- 💡 I enjoy building **mobile & web applications** and **data-driven solutions**
-- 🌱 Currently focusing on **Python for Data Science, SQL, statistics & machine learning**
-- 📱 Recent project: **BrightWell** – a personal wellness & habit tracker Android app built with **Kotlin**, fragments, SharedPreferences (Gson) & a home-screen widget
-- 💬 Ask me about **Web development • Android (Kotlin) • Data Science basics**
-- 📫 Reach me at **nadeejatw@gmail.com**
-- ⚡ Fun fact: **You can call me Thamiya 😄**
-
-</td>
-
-<td width="45%" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Q4eGJ1M2UwOGNoOXpoMzQwdGR2aWM3Z3ZoejliczQyNGp4azV2aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BUbMgQBShZOcMPohgn/giphy-downsized-large.gif"
-       alt="Matrix Code"
-       height="250"
-       width="100%" />
-</td>
-</tr>
-</table>
-
-<!-- Profile Views -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Tnadeeja&label=Profile%20views&color=0e75b6&style=flat" alt="Tnadeeja" />
-</p>
+- [x] Core Programming Fundamentals (Java, Python, C/C++)
+- [x] Web Development (HTML, CSS, JavaScript, React)
+- [x] Database Management (MySQL, SQL Server)
+- [x] Mobile App Development (Android with Kotlin)
+- [ ] Advanced Data Analysis with Python (NumPy, Pandas)
+- [ ] Machine Learning Fundamentals
+- [ ] Big Data Technologies
+- [ ] Cloud Computing (AWS/GCP)
 
 ---
 
-<!-- Languages and Tools Section -->
-<h2 align="center">🛠️ Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2>
+## 📊 Data Science Corner
 
-<p align="center">
-  <!-- Programming -->
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  </a>
-  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40"/>
-  </a>
-</p>
+```python
+# Exploring the world of data science
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
 
-<p align="center">
-  <!-- Web & UI -->
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+print("Hello, Data Science World! 🚀")
+# Currently learning: Data cleaning, visualization, and basic ML models
+```
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+</div>
   </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
