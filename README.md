@@ -1,23 +1,57 @@
-<a href="https://www.youtube.com/watch?v=SDkAGkd4NLc" target="_blank">
-    <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" alt="Matrix Banner" width="100%" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);"/>
-  </a>
+<div align="center">
 
-<h1 align="center">Hey <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40" style="vertical-align: middle;"/> I'm Thamindu Weerasinghe</h1>
-<h3 align="center">Data Science Undergraduate | AI/ML • Data Engineering • BI • Data Analytics • Software Development</h3>
+<a href="https://www.youtube.com/watch?v=SDkAGkd4NLc" target="_blank">
+  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" alt="Matrix Banner" width="100%" />
+</a>
+
+<h1 align="center">
+  Hey
+  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40" alt="Sunglasses GIF" />
+  I'm <span>Thamindu Weerasinghe</span>
+</h1>
 
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=Tnadeeja">
-    <img src="https://komarev.com/ghpvc/?username=Tnadeeja&label=Profile%20views&color=00FFFF&style=flat-square" alt="Tnadeeja's profile views" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=700&lines=Data+Science+Undergraduate;AI%2FML+%7C+Data+Engineering+%7C+BI;Data+Analytics+%7C+Software+Development" alt="Thamindu Weerasinghe animated profile title" />
+</p>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/AI%2FML-0D1117?style=for-the-badge&logo=tensorflow&logoColor=00FF9C&labelColor=0D1117" alt="AI/ML" />
+<img src="https://img.shields.io/badge/Data%20Engineering-0D1117?style=for-the-badge&logo=databricks&logoColor=00FF9C&labelColor=0D1117" alt="Data Engineering" />
+<img src="https://img.shields.io/badge/BI-0D1117?style=for-the-badge&logo=powerbi&logoColor=00FF9C&labelColor=0D1117" alt="BI" />
+<img src="https://img.shields.io/badge/Data%20Analytics-0D1117?style=for-the-badge&logo=googleanalytics&logoColor=00FF9C&labelColor=0D1117" alt="Data Analytics" />
+<img src="https://img.shields.io/badge/Software%20Development-0D1117?style=for-the-badge&logo=github&logoColor=00FF9C&labelColor=0D1117" alt="Software Development" />
+
+</div>
+
+<p align="center">
+  <a href="https://github.com/Tnadeeja" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=Tnadeeja&label=PROFILE%20VIEWS&color=00FF9C&style=for-the-badge" alt="Thamindu Weerasinghe profile views" />
   </a>
 </p>
 
+</div>
+
+---
+
 ## 📌 About Me
-- 🎓 I am a BSc (Hons) Information Technology undergraduate specializing in Data Science at SLIIT, Sri Lanka.
-- 🔭 I am currently working on data-driven applications, machine learning analytics, BI dashboards, and full-stack software projects.
-- 🌱 I am currently improving my skills in AI/ML, Data Engineering, ETL workflows, Power BI, SQL Server, and full-stack development.
-- 📊 I enjoy working with data preprocessing, model evaluation, data visualization, business intelligence, and practical software systems.
-- 💼 I am seeking internship opportunities in AI/ML Engineering, Data Engineering, Data Analytics, Business Intelligence, and Software Engineering.
-- 🌐 Portfolio: https://thaminduweerasinghe-portfolio.vercel.app/
+
+<table width="100%">
+  <tr>
+    <td>
+
+<ul>
+  <li>🎓 I am a BSc (Hons) Information Technology undergraduate specializing in Data Science at SLIIT, Sri Lanka.</li>
+  <li>🔭 I am currently working on data-driven applications, machine learning analytics, BI dashboards, and full-stack software projects.</li>
+  <li>🌱 I am currently improving my skills in AI/ML, Data Engineering, ETL workflows, Power BI, SQL Server, and full-stack development.</li>
+  <li>📊 I enjoy working with data preprocessing, model evaluation, data visualization, business intelligence, and practical software systems.</li>
+  <li>💼 I am seeking internship opportunities in AI/ML Engineering, Data Engineering, Data Analytics, Business Intelligence, and Software Engineering.</li>
+  <li>🌐 Portfolio: <a href="https://thaminduweerasinghe-portfolio.vercel.app/">https://thaminduweerasinghe-portfolio.vercel.app/</a></li>
+</ul>
+
+</td>
+  </tr>
+</table>
 
 
 ## 🧠 My Focus Areas
@@ -258,3 +292,7 @@
     Made with care by <strong>Thamindu Weerasinghe</strong>
   </sub>
 </p>
+
+
+
+
