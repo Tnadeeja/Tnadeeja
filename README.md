@@ -1,4 +1,8 @@
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px"> I'm Thamindu Weerasinghe</h1>
+<a href="https://www.youtube.com/watch?v=SDkAGkd4NLc" target="_blank">
+    <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" alt="Matrix Banner" width="100%" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);"/>
+  </a>
+
+<h1 align="center">Hey <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40" style="vertical-align: middle;"/> I'm Thamindu Weerasinghe</h1>
 <h3 align="center">Data Science Undergraduate | AI/ML • Data Engineering • BI • Data Analytics • Software Development</h3>
 
 <p align="center">
@@ -6,8 +10,6 @@
     <img src="https://komarev.com/ghpvc/?username=Tnadeeja&label=Profile%20views&color=00FFFF&style=flat-square" alt="Tnadeeja's profile views" />
   </a>
 </p>
-
-<img src="https://i.pinimg.com/originals/eb/7f/0c/eb7f0ccf927c93aeedbb3cf100d6fd29.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
 - 🎓 I am a BSc (Hons) Information Technology undergraduate specializing in Data Science at SLIIT, Sri Lanka.
@@ -174,7 +176,7 @@
   <img src="https://skillicons.dev/icons?i=postman&theme=dark" width="30" alt="Postman" /> Postman &nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=vite&theme=dark" width="30" alt="Vite" /> Vite
 </p>
-
+<br/>
 <p align="center">
   <a href="https://github.com/Tnadeeja">
     <img
@@ -188,25 +190,71 @@
 <p align="center">
   <img src="https://stats.pphat.top/languages?username=Tnadeeja" alt="Thamindu Weerasinghe Top Languages" width="75%" />
 </p>
-<br/>
 
 ## 🔗 Connect with Me
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/thamindu-weerasinghe-6b2aa3342/"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Thamindu Weerasinghe's LinkedIn"/></a>&nbsp;&nbsp;
-  <a href="https://x.com/nadeejatw"><img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&color=FF00FF" alt="Thamindu Weerasinghe's Twitter"/></a>&nbsp;&nbsp;
-  <a href="mailto:thaminduweerasinghe2002@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Thamindu Weerasinghe's Email"/></a>&nbsp;&nbsp;
-  <a href="https://thaminduweerasinghe-portfolio.vercel.app/"><img align="center" src="https://img.shields.io/badge/Website-46BC99?style=for-the-badge&logo=About.me&logoColor=white" alt="Personal Website"/></a>
+  <a href="https://thaminduweerasinghe-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Work-00FF9C?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" alt="Thamindu Weerasinghe Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/thamindu-weerasinghe-6b2aa3342/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="Thamindu Weerasinghe LinkedIn" />
+  </a>
+  <a href="mailto:thaminduweerasinghe2002@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Send%20Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Thamindu Weerasinghe Email" />
+  </a>
+  <a href="https://github.com/Tnadeeja" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-View%20Code-00FF9C?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="Thamindu Weerasinghe GitHub" />
+  </a>
 </p>
+<br/>
 
 ## 💬 Quote
-> Turning data into intelligent and practical software solutions.
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
-</p>
-
-<p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
+
+<h3>
+  “Turning data into intelligent and practical software solutions.”
+</h3>
+
+<p>
+  <sub>
+    Data Science • AI/ML • Data Engineering • Business Intelligence • Data Analytics • Software Development
+  </sub>
+</p>
+
 </div>
+
+<br>
+
+<div align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=900&lines=Building+data-driven+software+solutions;Exploring+AI%2C+analytics%2C+and+engineering;Learning%2C+building%2C+and+improving+every+day"
+    alt="Thamindu Weerasinghe animated typing footer"
+  />
+</div>
+
+<br>
+
+<div align="center">
+  <img
+    src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"
+    alt="Thamindu Weerasinghe GitHub profile animated footer line"
+    width="100%"
+  />
+</div>
+
+<br>
+
+<p align="center">
+  <img
+    src="https://img.shields.io/badge/Thamindu%20Weerasinghe-0D1117?style=for-the-badge&logo=github&logoColor=00FF9C&labelColor=0D1117&color=00FF9C"
+    alt="Thamindu Weerasinghe GitHub profile footer badge"
+  />
+</p>
+
+<p align="center">
+  <sub>
+    Made with care by <strong>Thamindu Weerasinghe</strong>
+  </sub>
+</p>
